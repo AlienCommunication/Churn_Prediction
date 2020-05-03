@@ -32,5 +32,9 @@ predictive analytics algorithm for data mining.
 
 ![Screenshot 2020-05-04 at 1 29 00 AM](https://user-images.githubusercontent.com/50583371/80924634-a9708580-8da7-11ea-8ca3-be444057f5f0.png)
 
+# Churn percentage in Pi chart- , 73% Customers stayed loyal to the Company but 27% customers churned as per the dataset
+
+![Screenshot 2020-05-04 at 1 38 02 AM](https://user-images.githubusercontent.com/50583371/80924688-0d934980-8da8-11ea-82f3-c065fb3bfdf4.png)
+
 
 # For More information Please. go through the Project Report
