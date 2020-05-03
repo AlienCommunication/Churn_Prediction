@@ -28,4 +28,9 @@ predictive analytics algorithm for data mining.
 ![Screenshot 2020-05-04 at 1 28 07 AM](https://user-images.githubusercontent.com/50583371/80924553-3e26b380-8da7-11ea-93bf-03231369eee6.png)
 
 
+# Correlation
+
+![Screenshot 2020-05-04 at 1 29 00 AM](https://user-images.githubusercontent.com/50583371/80924634-a9708580-8da7-11ea-8ca3-be444057f5f0.png)
+
+
 # For More information Please. go through the Project Report
