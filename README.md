@@ -23,6 +23,9 @@ churn rate of telecommunication companies using the
 predictive analytics algorithm for data mining. 
 
 
+# Data Statistics 
+
+![Screenshot 2020-05-04 at 1 28 07 AM](https://user-images.githubusercontent.com/50583371/80924553-3e26b380-8da7-11ea-93bf-03231369eee6.png)
 
 
 # For More information Please. go through the Project Report
