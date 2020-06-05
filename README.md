@@ -36,3 +36,24 @@ predictive analytics algorithm for data mining.
 
 ![Screenshot 2020-05-04 at 1 38 02 AM](https://user-images.githubusercontent.com/50583371/80924688-0d934980-8da8-11ea-82f3-c065fb3bfdf4.png)
 
+# Customer churn by Technical support variable
+
+![Screenshot 2020-06-06 at 1 41 29 AM](https://user-images.githubusercontent.com/50583371/83918728-f379cc00-a796-11ea-89ea-3e81ebd7695d.png)
+
+# Customer churn by Gender
+
+![Screenshot 2020-06-06 at 1 43 23 AM](https://user-images.githubusercontent.com/50583371/83918882-3340b380-a797-11ea-8f4f-4c675a7c867a.png)
+
+
+# Customer churn rate by the type of Internet Service they used
+![Screenshot 2020-06-06 at 1 44 41 AM](https://user-images.githubusercontent.com/50583371/83918962-58cdbd00-a797-11ea-8e92-61e7ed467d2f.png)
+
+# Churn rate by the type of payment method did they use-
+
+![Screenshot 2020-06-06 at 1 47 14 AM](https://user-images.githubusercontent.com/50583371/83919184-b3671900-a797-11ea-8177-4ae07be58bea.png)
+
+# Churn rate by the Duration of the contract
+
+![Screenshot 2020-06-06 at 1 48 44 AM](https://user-images.githubusercontent.com/50583371/83919301-f1fcd380-a797-11ea-9b51-71b7a85d086f.png)
+
+
